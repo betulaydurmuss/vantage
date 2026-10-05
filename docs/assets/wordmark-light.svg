@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="200" viewBox="0 0 820 200" role="img" aria-label="vantage">
+  <g transform="translate(40 30)">
+    <rect x="0" y="0" width="140" height="140" rx="32" fill="none" stroke="#0d9488" stroke-opacity="0.35" stroke-width="3"/>
+    <path d="M32 42 L70 108 L108 42" fill="none" stroke="#0d9488" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="70" cy="50" r="11" fill="#0d9488"/>
+  </g>
+  <text x="220" y="118" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-3" fill="#0f172a">vantage</text>
+  <text x="224" y="160" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="21" fill="#5b6780">see your site the way an attacker does</text>
+</svg>
